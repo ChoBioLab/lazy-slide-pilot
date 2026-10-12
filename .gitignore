@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!scripts/
+!scripts/**
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
